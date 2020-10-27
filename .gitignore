@@ -1,0 +1,4 @@
+target/
+*.class
+备忘.txt
+src/test/
